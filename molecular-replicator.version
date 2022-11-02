@@ -1,7 +1,7 @@
 {
-    "masterVersionFile":"https://",
+    "masterVersionFile":"https://raw.githubusercontent.com/SteelSirokos/Molecular-Replicator/main/molecular-replicator.version",
     "modName":"Molecular Replicator",
-    #"modThreadId":N/A,
+    "modThreadId":N/A,
     "modVersion":
     {
         "major":0,
